@@ -1,3 +1,4 @@
+* video https://www.youtube.com/watch?v=fgizHHd7nOo
 * org-mode mailing list: https://lists.gnu.org/archive/html/emacs-orgmode/
 * worg: https://orgmode.org/worg/org-tutorials/index.html
 * emacs-china
