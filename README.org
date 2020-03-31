@@ -1,5 +1,6 @@
-
-
+* org-mode mailing list: https://lists.gnu.org/archive/html/emacs-orgmode/
+* worg: https://orgmode.org/worg/org-tutorials/index.html
+* emacs-china
 [你们用 org-mode 如何做笔记呢？](https://emacs-china.org/t/org-mode/310/3) [![\ 25x25](https://emacs-china.org/user_avatar/emacs-china.org/li-xinyang/25/19_2.png "Li Xinyang - 原始作者")](https://emacs-china.org/u/li-xinyang)[![\ 25x25](https://emacs-china.org/user_avatar/emacs-china.org/emacs_ran/25/4326_2.png "emacs_ran - 最新发帖者")](https://emacs-china.org/u/emacs_ran) [1](https://emacs-china.org/c/org-mode/8) 1.1K [8 分钟](https://emacs-china.org/t/org-mode/310/2)
 [org agenda 有什么方法可以过滤出类似三天以內或明天到后天之间的任务？](https://emacs-china.org/t/org-agenda/12439/3) [![\ 25x25](https://emacs-china.org/user_avatar/emacs-china.org/flyingns/25/6408_2.png "flyingns - 原始作者")](https://emacs-china.org/u/flyingns)[![\ 25x25](https://emacs-china.org/user_avatar/emacs-china.org/voleking/25/4906_2.png "Voleking - 最新发帖者")](https://emacs-china.org/u/voleking) [1](https://emacs-china.org/c/org-mode/8) 73 [37 分钟](https://emacs-china.org/t/org-agenda/12439/2)
 [org-download在拖入带中文的图片会出现问题](https://emacs-china.org/t/org-download/2422/10)
